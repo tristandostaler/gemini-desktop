@@ -1,0 +1,1 @@
+& '.\build\Gemini Desktop Setup 1.0.0.exe'
